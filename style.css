@@ -1,0 +1,26 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 18px;
+}
+
+body{
+    background-size: 1000px;
+}
+
+#song_name{
+    font-size: 22px;
+    margin: 15px;
+    font-family: 'Ephesis', cursive;
+}
+
+
+canvas{
+    border: lavender 15px groove;
+    border-radius: 20px;
+    box-shadow: lawngreen 8px 8px 8px;
+}
